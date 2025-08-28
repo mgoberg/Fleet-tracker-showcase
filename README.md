@@ -1,4 +1,4 @@
-## Preview 05.08.25 (BETA Build)
+## Preview 28.08.25 (BETA Build)
 <img width="2562" height="1040" alt="c3a64a00d1a5e4b7f533a5447dd6b816" src="https://github.com/user-attachments/assets/c41ddcae-54ed-4916-842c-597502d03fcc" />
 <img width="2545" height="1262" alt="a6cbce15be6ad643923501cbc4ed673c" src="https://github.com/user-attachments/assets/1a6f5138-be5f-44f5-a09b-4d8e492ab3f8" />
 <img width="2524" height="1249" alt="1a06811c8803449329a29ea5ee49975d" src="https://github.com/user-attachments/assets/d2ab23c9-bd51-447a-8a6d-77e03e0112ee" />
