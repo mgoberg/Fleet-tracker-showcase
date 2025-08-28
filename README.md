@@ -6,6 +6,8 @@
 <img width="2185" height="1211" alt="9925ff065f58eca2f6e49d058ab34e39" src="https://github.com/user-attachments/assets/9c02aa03-9cba-4e76-a282-b94c02de511e" />
 <img width="293" height="238" alt="d2cfdfee310b6fcaf02669111ab269af" src="https://github.com/user-attachments/assets/20060917-e4d8-4039-a464-8acb8ea7fe87" />
 <img width="2194" height="501" alt="c043b75976b2d6c8affd834c68c9706c" src="https://github.com/user-attachments/assets/b38f5f76-5b08-481d-a17e-ea6ad79616e4" />
+<img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/c27ab039-397f-41fe-9896-8a5ab1d6b67e" />
+
 
 ## Cron Job Preview
 <img width="1097" height="448" alt="77e99164f40f6e0c533e22f231cfed68" src="https://github.com/user-attachments/assets/1259a0b8-d43b-4327-8d48-79a2feb6a4d0" />
